@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(49,52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(49,27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(50,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(243,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(274,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(338,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(339,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(356,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(523,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(528,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(556,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(562,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(563,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(575,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\DeteksiBola\DeteksiBola\Source.cpp(576,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\opencv\opencv-4.1.2\build\install\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DeteksiBola.vcxproj -> C:\Users\Administrator\Desktop\DeteksiBola\x64\Debug\DeteksiBola.exe

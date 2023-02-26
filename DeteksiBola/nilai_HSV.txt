@@ -1,0 +1,12 @@
+Data HSV deteksi bola, erosi, dilasi, dan smooting filter
+urutan H_MIN, S_MIN, V_MIN, H_MAX, S_MAX, V_MAX, erosi, dilasi dan smooting
+18
+189
+55
+35
+255
+255
+1
+6
+0
+1/22/2020 8:39:09 AM
